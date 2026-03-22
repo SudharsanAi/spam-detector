@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+# not committing trained model - retrains on first run anyway
+model.pkl
+vectorizer.pkl
