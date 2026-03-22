@@ -51,4 +51,4 @@ around 97-98% on test set. false positive rate is low which matters more than ra
 
 ## author
 
-sudharsan m
+Sudharsan M, BE-CSE, ME-CSE(Specialisation in Bigdata Analytics), MBA-Business Analytics
